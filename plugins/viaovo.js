@@ -22,8 +22,8 @@ let handler = async (m, { conn }) => {
 ╠➥ *DAN 200 LEBIH*
 ║   *FITUR LAINNYA*
 ║ 
-╠═ ©2022 King Of Bear
-╠═ Scrip original by Nurutomo
+╠═ ©2022 Kurumi
+╠═ Scrip original by Kurumi-chan
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }
 
